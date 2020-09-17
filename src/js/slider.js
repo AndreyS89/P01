@@ -1,13 +1,6 @@
 import $ from 'jquery';
-<<<<<<< HEAD
-// import 'slick-carousel';
 import 'slick-carousel';
 
-
-=======
-import 'slick-carousel';
-
->>>>>>> 3b166d9e9ec3584eef3e3244fea621bbc971da67
 $(document).ready(function() {
     $('.glazing_slider').slick({
         infinite: true,
