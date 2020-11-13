@@ -14019,7 +14019,8 @@ window.addEventListener('DOMContentLoaded', function () {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-var modals = function modals() {};
+var modals = function modals() {// function bindModal(trigger)
+};
 
 /* harmony default export */ __webpack_exports__["default"] = (modals);
 
